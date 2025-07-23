@@ -1,3 +1,4 @@
+./pyes king  CONTROLER PVP 2
 
 # Welcome to the PojavLauncher Wiki!
 ____
